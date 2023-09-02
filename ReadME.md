@@ -33,7 +33,7 @@ Welcome to a world where words are more than text; they're poetry in motion. Wel
 - [Hugging Face](https://huggingface.co/spaces/ahmad4raza/Flying-Shakespeare)
 - [GitHub Repo](https://github.com/ahmad-thewhiz/Flying-Shakespeare)
 
-## Creators
+## Contributors
 - [Ahmad Raza](https://github.com/ahmad-thewhiz)<br>
 - [S Gyanesh Rao](https://github.com/Gyanesh-Rao28)<br>
 - [Aniruddha Dewangan](https://github.com/Ani-RudE)
